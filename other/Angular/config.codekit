@@ -1332,6 +1332,83 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/images\/drunkenPirate_avatar.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20149,
+		"inputAbbreviatedPath": "\/images\/drunkenPirate_avatar.png",
+		"outputAbbreviatedPath": "\/images\/drunkenPirate_avatar.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/drunkenPirate_smicons.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4835,
+		"inputAbbreviatedPath": "\/images\/drunkenPirate_smicons.png",
+		"outputAbbreviatedPath": "\/images\/drunkenPirate_smicons.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/drunkenPirate_thumb1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 156996,
+		"inputAbbreviatedPath": "\/images\/drunkenPirate_thumb1.png",
+		"outputAbbreviatedPath": "\/images\/drunkenPirate_thumb1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/drunkenPirate_thumb2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 157527,
+		"inputAbbreviatedPath": "\/images\/drunkenPirate_thumb2.png",
+		"outputAbbreviatedPath": "\/images\/drunkenPirate_thumb2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/drunkenPirate_thumb3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 161305,
+		"inputAbbreviatedPath": "\/images\/drunkenPirate_thumb3.png",
+		"outputAbbreviatedPath": "\/images\/drunkenPirate_thumb3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/hero.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 74255,
+		"inputAbbreviatedPath": "\/images\/hero.png",
+		"outputAbbreviatedPath": "\/images\/hero.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/loading.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2340,
+		"inputAbbreviatedPath": "\/images\/loading.png",
+		"outputAbbreviatedPath": "\/images\/loading.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/start.html": {
 		"fileType": 8192,
 		"ignore": 0,
